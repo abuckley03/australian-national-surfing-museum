@@ -1,0 +1,310 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1{
+	font-weight:900;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 30px;
+
+	
+}
+
+h2{
+
+font-weight: 600;
+color: #eee;
+font-family: 'Titillium Web', sans-serif;
+font-size: 25px;
+
+
+}
+
+p{
+	color: #eee;
+	font-family: 'Titillium Web', sans-serif;
+
+}
+
+
+
+
+
+.header{
+	background-color: #fff;
+	padding:1rem;
+
+
+}
+
+
+ 	#main-menu nav {
+     display: flex;
+     height: 100%;
+
+   }
+ 	#main-menu ul {
+     margin: auto 0;
+     padding: 0;
+     list-style: none;
+}
+	#main-menu a{
+	font-size: ;
+}
+
+
+
+
+
+
+.introduction-video img {
+	width: 100%;
+}
+
+.layer-text{
+	display: grid;
+	place-items: center;
+}
+
+.layer-text * {
+grid-column: 1;
+grid-row: 1;
+}
+
+
+
+
+
+
+
+.current-exhibits{
+	padding: 1rem;
+	background-color: #fff;
+	text-transform: uppercase;
+	text-align:center;
+	font-size: 30px;
+	
+
+
+
+}
+
+
+
+.australian-surfing-hall-of-fame h1{
+font-size: 50px;
+font-weight: 600;
+
+
+
+}
+
+
+
+.australian-surfing-hall-of-fame{
+ background-image: linear-gradient(#009DCD, #191D1E);
+ text-align: center;
+ padding-top: 3rem;
+ padding-bottom: 7rem;
+ font-size: 20px;
+
+
+}
+
+.australian-surfing-hall-of-fame img{
+	width: 80%;
+	padding-top: 0rem;
+}
+
+.australian-surfing-hall-of-fame h2{
+text-align: center;
+font-weight: 600;
+padding-top: 2rem;
+padding-bottom: 2rem;
+font-size: 30px;
+
+}
+
+
+.australian-surfing-hall-of-fame p{
+	padding-left: 3rem;
+	padding-right: 3rem;
+
+
+}
+
+.australian-surfing-hall-of-fame .btn {
+	border-radius: 8px;
+	background-color: #009DCD;
+
+}
+
+.australian-surfing-hall-of-fame .btn: hover {
+  background-color: black;
+ }
+
+
+.about-us-header h1{
+	text-align: center;
+	padding: 1rem;
+	color:#eee;
+	font-size: 30px;
+	background: #191D1E;
+
+
+
+}
+
+.about-us-header img{
+	width:100%;
+}
+
+
+.about-us h2{
+color: #eee;
+text-align: center;
+padding-top: 2rem;
+font-size: 25px;
+}
+
+.about-us img{
+	width: 30%
+}
+
+.about-us {
+	background-color: #191D1E;
+	text-align:center;
+	padding-left: 3rem;
+	padding-right:3rem;
+	padding-bottom: 5rem;
+
+
+}
+
+
+.things-to-see-and-do{
+	 background-image: linear-gradient(#009DCD, #191D1E);
+	 padding: 3rem;
+
+
+}
+
+.things-to-see-and-do img{
+	width: 60%;
+	align-items: center;
+	display:block;
+	margin: auto;
+
+}
+
+.things-to-see-and-do h1{
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+
+
+
+
+}
+
+.things-to-see-and-do h2{
+	text-align: center;
+	text-transform: uppercase;
+
+
+}
+
+
+
+.things-to-see-and-do p{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.read-our-blog h1{
+background color: white; 
+color: black;
+text-transform: uppercase;
+text-align: center;
+padding: 1rem;
+
+
+}
+
+.read-our-blog {
+  position: relative;
+  width: 100%;
+}
+
+.read-our-blog img {
+  width: 100%;
+  height: auto;
+}
+
+.read-our-blog .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #009DCD;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border-radius: 8px;
+
+}
+
+.read-our-blog .btn: hover {
+  background-color: black;
+}
+	
+
+
+.footer{
+background-color: #191D1E;
+color: white;
+text-align: center;
+padding-bottom: 5rem;
+padding-right: 3rem;
+padding-left: 3rem;
+padding-top: 2rem;
+
+
+}
+
+
+.footer h3{
+font-size: 25px;
+padding-bottom: .5rem;
+padding-top:2rem;
+text-transform: uppercase;
+font-weight: 600;
+font-family: 'Titillium Web', sans-serif;
+
+
+
+}
+
+.footer h4{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.footer h5{
+	padding-top: 2rem;
+	color:#009DCD;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.footer img{
+
+}
+
+.copyright h6{
+	text-align: center;
+	font-size: 15px;
+	padding: 1rem;
+
+}
